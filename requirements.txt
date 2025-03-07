@@ -1,0 +1,10 @@
+ipykernel
+ipython
+jupyter
+numpy
+pandas
+scipy
+matplotlib
+gymnasium
+Pillow
+pygame
